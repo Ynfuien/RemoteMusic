@@ -15,7 +15,7 @@ Remote Music is an app for Android, to control media of your computer from your 
 
 
 # Getting started
-1. Download latest .app from [releases](https://github.com/Ynfuien/RemoteMusic/releases) page, and install it on your phone.
+1. Download latest .apk from [releases](https://github.com/Ynfuien/RemoteMusic/releases) page, and install it on your phone.
 2. Go to [RemoteMusicServer](https://github.com/Ynfuien/RemoteMusicServer) page, and install it as well, but on your pc.
 3. Connect both devices to the same network
 4. Check local ip of your computer. You can do that by using `ipconfig` command in Windows console and finding `IPv4 Address` line. Then enter this ip in android app, and hit save button.
@@ -24,8 +24,8 @@ Remote Music is an app for Android, to control media of your computer from your 
 
 
 # Screenshots
-![App](https://i.imgur.com/PtzCmZk.jpg)
-![Notification](https://i.imgur.com/t8PGAt7.jpg)
+<img src="https://i.imgur.com/PtzCmZk.jpg" alt="App" width="350px"/>
+<img src="https://i.imgur.com/t8PGAt7.jpg" alt="Notification" width="350px"/>
 
 
 # Some last words...
