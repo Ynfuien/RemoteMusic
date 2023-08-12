@@ -24,9 +24,11 @@ Remote Music is an app for Android, to control media of your computer from your 
 
 
 # Screenshots
-<img src="https://i.imgur.com/PtzCmZk.jpg" alt="App" width="350px"/>
-<img src="https://i.imgur.com/t8PGAt7.jpg" alt="Notification" width="350px"/>
-
+<p align="center">
+  <img src="https://i.imgur.com/PtzCmZk.jpg" alt="App" width="300px">
+    &nbsp;
+  <img src="https://i.imgur.com/t8PGAt7.jpg" alt="Notification" width="300px">
+</p>
 
 # Some last words...
 This project was made mainly for my personal use, because I hated that I needed to stand up from my couch, just to change music volume on my pc. Also e.g [UnifiedRemote](https://www.unifiedremote.com/) didn't cut it, cause it only allows you to manage media from the app itself, and not by using volume buttons. Aand whether there was another app doing exacly what I wanted, I didn't bother searching for it xD
