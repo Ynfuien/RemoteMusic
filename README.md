@@ -41,4 +41,4 @@ So, the app is as it is.
 
 
 # License
-This project uses [GNU GPLv3](https://github.com/Ynfuien/RemoteMusicServer/blob/main/LICENSE.txt) license.
+This project uses [GNU GPLv3](https://github.com/Ynfuien/RemoteMusicServer/blob/main/LICENSE) license.
